@@ -21,11 +21,11 @@ body {
     font-weight: 500;
 }
 
-.your-score{
+#your-score{
     color: yellow;
 }
 
-.comp-score{
+#comp-score{
     color: red;
 }
 
